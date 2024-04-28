@@ -34,6 +34,7 @@
 } 
 /* Activity 2 styles */ 
 .content2 {
+  grid-template-columns: 1fr 1fr;
   /* This is the parent of the activity 2 boxes. */
 }
 .red2 {
@@ -156,6 +157,7 @@
 } 
 /* Activity 6 styles */ 
 .content6 {
+  grid-template-columns: 1fr 1fr;
   /* This is the parent of the activity 6 boxes. */
 }
 .red6 {
